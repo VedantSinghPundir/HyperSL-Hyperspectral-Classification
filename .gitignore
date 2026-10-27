@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+.conda/
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Hyperspectral datasets
+data/
+*.mat
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Experiment artifacts
+logs/
+ip_outputs/
+runs/
+checkpoints/
+*.log
+
+# Editor settings
+.vscode/

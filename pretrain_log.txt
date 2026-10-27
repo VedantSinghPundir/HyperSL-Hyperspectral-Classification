@@ -1,0 +1,9 @@
+device cuda; 21025 pixel spectra of 200 bands (labels unused)
+parameters: 1.84 M
+epoch   1/100  mse 0.7303  (1-cos) 0.4735
+epoch   2/100  mse 0.2766  (1-cos) 0.1707
+epoch   3/100  mse 0.1243  (1-cos) 0.0876
+epoch   4/100  mse 0.1030  (1-cos) 0.0729
+epoch   5/100  mse 0.0970  (1-cos) 0.0691
+epoch   6/100  mse 0.0933  (1-cos) 0.0663
+epoch   7/100  mse 0.0909  (1-cos) 0.0641
